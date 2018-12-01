@@ -1,7 +1,7 @@
 # MecServerDesign
 
 ## Intel CPU for MecServer (survey)
-  - https://www.pugetsystems.com/labs/hpc/Intel-Scalable-Processors-Xeon-Skylake-SP-Purley-Buyers-Guide-1077/
+  - [Skylake-sp buyer's guide](https://www.pugetsystems.com/labs/hpc/Intel-Scalable-Processors-Xeon-Skylake-SP-Purley-Buyers-Guide-1077/)
 
 ### Price vs Performance 
   - Multi-threaded : 6154 ($3543,18C) : it has great performance and value
