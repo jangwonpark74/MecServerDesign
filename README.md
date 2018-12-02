@@ -11,5 +11,10 @@
   - GPU based (CPU doesn't Matter) : 6128 ($1697)
     6128, 5122, 4114, 4112 The first 2 would be excellent for supporting a system using GPU's for compute where there is still need for fast CPU processing and fast memory transport to and from the GPU's. The last 2 are simply the lowest cost processors on my list and would be good when CPU really doesn't matter much. 
 
-## Xilinx FPGA for Acceleration 
+## Xilinx FPGA for Acceleration
+### SKT NUGU Acceleration with KCU1500
    - [KCU1500] (https://www.xilinx.com/products/boards-and-kits/dk-u1-kcu1500-g.html#hardware)
+   - [Xilinx FPGA Open Source ] (https://github.com/Xilinx/SDAccel_Examples)
+
+### FPGA Acceleration Presentation
+   - [ACAP Presentation] (https://www.nimbix.net/wp-content/uploads/2018/06/Adopting-Cloud-FPGAs-to-Accelerate-Enterprise-Workloads-Xilinx.pdf)
