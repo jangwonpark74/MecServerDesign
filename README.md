@@ -17,4 +17,6 @@
    - [Xilinx FPGA Open Source ] (https://github.com/Xilinx/SDAccel_Examples)
 
 ### FPGA Acceleration Presentation
-   - [ACAP Presentation] (https://www.nimbix.net/wp-content/uploads/2018/06/Adopting-Cloud-FPGAs-to-Accelerate-Enterprise-Workloads-Xilinx.pdf)
+   - [ACAP Presentation I] (https://www.nimbix.net/wp-content/uploads/2018/06/Adopting-Cloud-FPGAs-to-Accelerate-Enterprise-Workloads-Xilinx.pdf)
+   - [ACAP Presentation II](files.shareholder.com/downloads/XLNX/0x0x975133/E4C64D2B-F39F-4A04-AB7E-7B5E0B04122B/Xilinx_Press_Presentation.pdf)
+
