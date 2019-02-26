@@ -5,3 +5,4 @@
 
 ## Memcached 
 - [Client Spymemcached](https://crunchify.com/memcached-java-client-net-spy-spymemcached/)
+- [spymemcached API I/F](https://repository.jboss.org/nexus/content/unzip/unzip/spy/spymemcached/2.8.0/spymemcached-2.8.0-javadoc.jar-unzip/overview-summary.html)
