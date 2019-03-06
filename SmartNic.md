@@ -5,5 +5,5 @@
 - [Mellanox Article on Smart NIC](http://www.mellanox.com/blog/2018/08/defining-smartnic/)
 
 ## OCP NIC 4.0
- -[OCP Workshop](https://www.opencompute.org/files/OCP18-EngWorkShop-OCP-NIC4.0-v05-20180305-add-note.pdf)
+- [OCP Workshop](https://www.opencompute.org/files/OCP18-EngWorkShop-OCP-NIC4.0-v05-20180305-add-note.pdf)
 
