@@ -4,6 +4,9 @@
 # Smart NIC functions
 - [Mellanox Article on Smart NIC](http://www.mellanox.com/blog/2018/08/defining-smartnic/)
 
+# Smart NIC 
+- [SolarFlare](https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2017/20170808_Keynote6_Houssein.pdf)
+
 # Huawei Smart NIC
 - [H u-NIC](https://conferences.sigcomm.org/events/apnet2018/slides/yong.pdf)
 
