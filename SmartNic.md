@@ -4,10 +4,6 @@
 # Smart NIC functions
 - [Mellanox Article on Smart NIC](http://www.mellanox.com/blog/2018/08/defining-smartnic/)
 
-## Openfv Smart NIC 
-- [NFV ]()
-
-
 # Huawei Smart NIC
 - [H u-NIC](https://conferences.sigcomm.org/events/apnet2018/slides/yong.pdf)
 
