@@ -11,6 +11,12 @@
 - [GPU Direct Open source](https://github.com/gpudirect)
 - [libgdsync](https://github.com/gpudirect/libgdsync)
 
+## GPU Cluster : Preferred Networks
+ * NCCL communication is faster than MPI 
+- [ChainerMN distributed DL framework](http://on-demand.gputechconf.com/gtc/2018/presentation/s8889-training-imagenet-in-15-minutes-with-chainermn-a-scalable-distributed-dl-framework.pdf)
+
+
+
 # AI in the Network
 - [AI server in Networking](http://on-demand.gputechconf.com/gtc/2018/presentation/s8971-adopting-artificial-intelligence-technologies-in-networking-presented-by-cisco.pdf)
 
