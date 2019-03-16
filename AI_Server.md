@@ -1,6 +1,9 @@
 # GPU Direct Design
 - [GPU Direct](http://on-demand.gputechconf.com/gtc/2018/presentation/s8474-gpudirect-life-in-the-fast-lane.pdf)
 
+## Papers Related to GPU Direct
+- [Fast and Concurrent RDF Queries using  RDMA-assisted GPU Graph Exploration](https://www.usenix.org/system/files/conference/atc18/atc18-wang-siyuan.pdf)
+
 ## GPU Direct SW
 - [GPU Direct Open source](https://github.com/gpudirect)
 - [libgdsync](https://github.com/gpudirect/libgdsync)
