@@ -19,3 +19,6 @@
 
 # AI for Smart Factory Defect Inspection
 - [Defect Inspection with AI](http://on-demand.gputechconf.com/gtc/2018/presentation/s8682-defect-inspection-from-scratch-to-production.pdf)
+
+# AI for Smart City 
+- [ SKT Smart City Video Survelliance](http://on-demand.gputechconf.com/gtc/2018/presentation/s8296-accelerating-large-scale-video-surveillance-for-smart-cities-with-tensorrt.pdf)
