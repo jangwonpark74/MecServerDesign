@@ -1,2 +1,5 @@
 # AI in the Network
 - [AI server in Networking](http://on-demand.gputechconf.com/gtc/2018/presentation/s8971-adopting-artificial-intelligence-technologies-in-networking-presented-by-cisco.pdf)
+
+# AI for AD business
+- [JD.com's AI Add business](http://on-demand.gputechconf.com/gtc/2018/presentation/s81016-how-ai-lifts-the-ads-business-in-jd.pdf)
