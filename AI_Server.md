@@ -1,6 +1,10 @@
 # GPU Direct Design
 - [GPU Direct](http://on-demand.gputechconf.com/gtc/2018/presentation/s8474-gpudirect-life-in-the-fast-lane.pdf)
 
+## GPU Direct SW
+-[GPU Direct Open source](https://github.com/gpudirect)
+-[libgdsync](https://github.com/gpudirect/libgdsync)
+
 # AI in the Network
 - [AI server in Networking](http://on-demand.gputechconf.com/gtc/2018/presentation/s8971-adopting-artificial-intelligence-technologies-in-networking-presented-by-cisco.pdf)
 
