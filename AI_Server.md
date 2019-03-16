@@ -3,3 +3,6 @@
 
 # AI for AD business
 - [JD.com's AI Add business](http://on-demand.gputechconf.com/gtc/2018/presentation/s81016-how-ai-lifts-the-ads-business-in-jd.pdf)
+
+# AI for Smart Factory Defect Inspection
+- [Defect Inspection with AI](http://on-demand.gputechconf.com/gtc/2018/presentation/s8682-defect-inspection-from-scratch-to-production.pdf)
