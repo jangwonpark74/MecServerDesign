@@ -1,6 +1,9 @@
 # GPU Direct Design
 - [GPU Direct](http://on-demand.gputechconf.com/gtc/2018/presentation/s8474-gpudirect-life-in-the-fast-lane.pdf)
 
+# Nvidia GPU Kernel Module Design
+- [GPU Kernel Module Design](https://docs.nvidia.com/cuda/gpudirect-rdma/index.html)
+
 ## Papers Related to GPU Direct
 - [Fast and Concurrent RDF Queries using  RDMA-assisted GPU Graph Exploration](https://www.usenix.org/system/files/conference/atc18/atc18-wang-siyuan.pdf)
 
