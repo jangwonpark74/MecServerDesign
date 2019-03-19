@@ -6,3 +6,6 @@
 
 # Samsung Z-SSD 
 - [z-SSD analysis](https://www.anandtech.com/show/13951/the-samsung-983-zet-znand-ssd-review)
+
+# FADU Annapurna 
+- [SSD controller](http://www.etnews.com/20171019000193)
