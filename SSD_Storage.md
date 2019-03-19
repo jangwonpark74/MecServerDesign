@@ -10,3 +10,4 @@
 # FADU Annapurna 
 - [SSD controller](http://www.etnews.com/20171019000193)
 - [FADU annapurna](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/sifive7)
+- [FADU Roadmap](http://fadu.io/fadu_brochure_4p_2017_final.pdf)
