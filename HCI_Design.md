@@ -3,3 +3,6 @@
 
 # C's HCI
 - [HyperConverged](https://www.cisco.com/c/dam/global/ko_kr/training-events/web-seminar/pdf/hyperconverged.pdf)
+
+# NetApp HCI
+- [NetApp HCI datasheet](https://www.netapp.com/us/media/ds-3881.pdf)
