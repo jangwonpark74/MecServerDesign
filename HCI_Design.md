@@ -8,3 +8,6 @@
 
 # NetApp HCI
 - [NetApp HCI datasheet](https://www.netapp.com/us/media/ds-3881.pdf)
+
+# Quanta HCI : QxStack
+- [http://go.qct.io/solutions/enterprise-private-cloud/qxstack-powered-by-vmware-cloud-foundation/]
