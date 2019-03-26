@@ -11,3 +11,6 @@
 
 # Quanta HCI : QxStack
 - [QsStack powered by VMware Cloud Foundation](http://go.qct.io/solutions/enterprise-private-cloud/qxstack-powered-by-vmware-cloud-foundation/)
+
+# HCI for data center
+- [HCI](https://connectedsoci1almedia.com/16493/all-flash-and-hybrid-arrays-for-next-gen-data-center-workloads-intel-conversations-in-the-cloud-episode-133/)
